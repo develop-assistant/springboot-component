@@ -21,6 +21,7 @@
 ## ⛳ SpringBoot基础组件
 
 1. [SpringBoot快速集成ELK](https://github.com/qidian360/log-kafka-spring-boot-starter): 包含log4j2和logback
+2. [SpringBoot标准化web开发](https://github.com/qidian360/unified-spring-boot-starter): 结构化返回格式、全局异常、参数校验
 
 
 ## 联系我
